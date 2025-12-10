@@ -124,7 +124,7 @@ The **E-Commerce Order and Inventory Manager** is a full-featured desktop applic
 
 1. **Clone or Download the Repository**
    ```bash
-   cd /home/ubuntu/ecommerce_project
+   cd /home/CSC530/ecommerce_project
    ```
 
 2. **Verify Python Installation**
@@ -148,7 +148,7 @@ The **E-Commerce Order and Inventory Manager** is a full-featured desktop applic
 ### Running the Application
 
 ```bash
-cd /home/ubuntu/ecommerce_project
+cd /home/CSC530/ecommerce_project
 python3 main.py
 ```
 
@@ -468,7 +468,7 @@ except InvalidInputError as e:
 ### Running Tests
 
 ```bash
-cd /home/ubuntu/ecommerce_project
+cd /home/CSC530/ecommerce_project
 python3 test_exceptions.py
 ```
 
@@ -549,12 +549,12 @@ Contributions are welcome! Here's how you can help:
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/yourusername/ecommerce-manager.git
+   git clone https://github.com/HamedDiakite/ecommerce-order-inventory-manager.git
    ```
 
 2. **Create a Feature Branch**
    ```bash
-   git checkout -b feature/your-feature-name
+   git checkout -b feature/ecommerce-order-inventory-manager
    ```
 
 3. **Make Your Changes**
@@ -569,12 +569,12 @@ Contributions are welcome! Here's how you can help:
 
 5. **Commit Your Changes**
    ```bash
-   git commit -m "Add: Brief description of your changes"
+   git commit -m "Add: This project demonstrates a basic e-commerce Inventory management and Shopping system using Data Structure approach."
    ```
 
 6. **Push to Your Fork**
    ```bash
-   git push origin feature/your-feature-name
+   git push origin feature/HamedDiakite
    ```
 
 7. **Submit a Pull Request**
@@ -633,7 +633,7 @@ SOFTWARE.
 
 ### Contact
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [hamedjdiakite@gmail.com](hamedjdiakite@gmail.com.com)
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
 
