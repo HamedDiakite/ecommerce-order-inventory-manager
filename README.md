@@ -634,8 +634,8 @@ SOFTWARE.
 ### Contact
 
 - 📧 Email: [hamedjdiakite@gmail.com](hamedjdiakite@gmail.com.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 💼 LinkedIn: [Hamed J. Diakite](https://www.linkedin.com/in/hamed-j-diakite/)
+- 🐙 GitHub: [Hamed Diakite](https://github.com/HamedDiakite)
 
 ---
 
